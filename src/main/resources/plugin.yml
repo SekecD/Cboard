@@ -1,0 +1,7 @@
+name: CristalixBoard
+version: '${project.version}'
+main: org.cristalixcore.cristalixboard.CristalixBoard
+api-version: '1.16'
+commands:
+  cristalixboard:
+
